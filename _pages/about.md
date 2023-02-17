@@ -31,5 +31,8 @@ from the National and Kapodistrian University of Athens
 Prior to Cornell, I was a Senior Software Engineer at [TileDB](https://tiledb.com/). Furthermore, I have held engineering positions at 
 [Unravel](https://www.unraveldata.com/), [AISERA](https://aisera.com/), [BEAT](https://en.wikipedia.org/wiki/Beat_(app))
 (previously known as TaxiBEAT) and [isMOOD](https://ismood.com/). I have also spent two years as a Researcher at the 
-[Computing Systems Laboratory (CSLab)](https://twitter.com/cslab_ntua?lang=en) at the National and Technical University of  Athens. 
+[Computing Systems Laboratory (CSLab)](https://twitter.com/cslab_ntua?lang=en) at the National and Technical University of  Athens.
+
+I am originally from, and grew up in [Amarynthos](https://en.wikipedia.org/wiki/Amarynthos), a coastal town in 
+[Evia (Εύβοια)](https://en.wikipedia.org/wiki/Euboea), Greece.
 

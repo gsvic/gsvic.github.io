@@ -19,12 +19,23 @@
       description:
         - "Thesis: Distributed SQL Query Execution over Multiple-Engine Environments"
         - "Advisor: Dimitrios Tsoumakos"
+        -
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant, Database System Practicum (Implementation)
+      institution: Cornell University, Ithaca, NY, USA
+      year: Fall 2022
+
+    - title: Teaching Assistant, Operating Systems
+      institution: Cornell University, Ithaca, NY, USA
+      year: F2021, S2022
 
 - title: Professional Experience
   type: time_table
   contents:
     - title: Research Scientist Intern
-      institution: IBM Almaden Research Center
+      institution: IBM Almaden Research Center. San Jose, CA, USA
       year: Summer 2022
 
     - title: Senior Software Engineer
@@ -32,8 +43,24 @@
       year: 2019 - 2021
 
     - title: Software Engineer
-      institution: Unravel Data Systems
+      institution: Unravel Data Systems. Palo Alto, CA, USA
       year: 2018 - 2019
+
+    - title: Software Engineer
+      institution: AISERA. Palo Alto, CA, USA
+      year: 06/2018 - 09/2018
+
+    - title: Software Engineer
+      institution: BEAT. Athens, Greece
+      year: 09/2017 - 06/2018
+
+    - title: Researcher
+      institution: Computing Systems Laboratory (CSLab), National and Technical University of Athenns, School of ECE
+      year: 2015 - 2017
+
+    - title: Software Engineer
+      institution: isMOOD. Athens, Greece
+      year: 2014 - 2015
 
 - title: Other Interests
   type: list

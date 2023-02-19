@@ -19,7 +19,6 @@
       description:
         - "Thesis: Distributed SQL Query Execution over Multiple-Engine Environments"
         - "Advisor: Dimitrios Tsoumakos"
-        -
 - title: Teaching Experience
   type: time_table
   contents:

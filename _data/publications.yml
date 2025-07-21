@@ -1,4 +1,8 @@
 main:
+  - title: "SwellDB: GenAI-Native Query Processing via On-the-Fly Table Generation"
+    authors: <strong>Victor Giannakouris</strong>, Immanuel Trummer
+    conference: VLDB 2025, PhD Workshop
+    pdf: https://github.com/gsvic/gsvic.github.io/blob/gh-pages/papers/SwellDB_VLDB_PhD_Workshop_2025.pdf
 
   - title: "Rethinking Pluggable Federated Query Optimization: From Laptops to Data Warehouses"
     authors: <strong>Victor Giannakouris</strong>, Immanuel Trummer

@@ -1,0 +1,48 @@
+main:
+
+  - title: "Rethinking Pluggable Federated Query Optimization: From Laptops to Data Warehouses"
+    authors: <strong>Victor Giannakouris</strong>, Immanuel Trummer
+    conference: CDMS @ VLDB 2025
+    pdf: https://github.com/gsvic/gsvic.github.io/blob/gh-pages/papers/Dingo_VLDB_2025.pdf
+
+  - title: "SwellDB: Dynamic Query-Driven Table Generation with Large Language Models"
+    authors: <strong>Victor Giannakouris</strong>, Immanuel Trummer
+    conference: SIGMOD 2025
+#    conference_short:
+    pdf: https://dl.acm.org/doi/abs/10.1145/3722212.3725136
+    code: https://github.com/SwellDB/SwellDB
+#    image: ./assets/img/teaser_example_2.png
+#    notes: Early Accept
+
+  - title: "λ-Tune: Harnessing Large Language Models for Automated Database System Tuning"
+    authors: <strong>Victor Giannakouris</strong>, Immanuel Trummer
+    conference: SIGMOD 2025
+#    conference:
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3709652
+    code: https://github.com/gsvic/lambda-tune
+
+  - title: "Demonstrating λ-tune: Exploiting large language models for workload-adaptive database system tuning"
+    authors: <strong>Victor Giannakouris</strong>, Immanuel Trummer
+    conference: SIGMOD 2024
+    pdf: https://par.nsf.gov/servlets/purl/10577785
+    code: https://github.com/gsvic/lambda-tune
+
+  - title: "DBG-PT: A Large Language Model Assisted Query Performance Regression Debugger"
+    authors: <strong>Victor Giannakouris</strong>, Immanuel Trummer
+    conference: VLDB 2024
+    pdf: https://dl.acm.org/doi/abs/10.14778/3685800.3685869
+
+  - title: "Building Learned Federated Query Optimizers"
+    authors: <strong>Victor Giannakouris</strong>, Immanuel Trummer
+    conference: VLDB 2022
+    pdf: https://par.nsf.gov/servlets/purl/10377801
+
+  - title: "Cost-Effective, Workload-Adaptive Migration of Big Data Applications to the Cloud"
+    authors: <strong>Victor Giannakouris</strong>, Alejandro Fernandez, Alkis Simitsis, Shivnath Babu
+    conference: SIGMOD 2019
+    pdf: https://dl.acm.org/doi/abs/10.1145/3299869.3320240
+
+  - title: "MuSQLE: Distributed SQL query execution over multiple engine environments"
+    authors: <strong>Victor Giannakouris</strong>, Nikolaos Papailiou, Dimitrios Tsoumakos, Nectarios Kozyris
+    conference: IEEE BigData 2016
+    pdf: http://www.cslab.ece.ntua.gr/~dtsouma/index_files/musqle_bigdata.pdf

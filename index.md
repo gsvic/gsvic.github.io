@@ -10,6 +10,14 @@ I am also deeply interested in database internals, particularly query optimizati
 Throughout my academic and industry experience, I have built custom components for a variety of data systems, including
 Spark SQL, TileDB, Dremio, Presto/Trino, and MonetDB.
 
+## Research Interests
+
+- **Large Language Models & Data Systems:** Systems that harness Large Language Models to enhance and optimize data systems
+(GenAI for Data Systems) and design GenAI-native systems that integrate LLMs into their core functionality 
+(Data Systems for GenAI).
+- **Query Optimization:** Federeted Query Optimization, Learned Query Optimization, Query Engines, Internals
+
+
 ## Education
 - **Ph.D. in Computer Science** (Current)  
   Cornell University, Ithaca, NY, USA  
@@ -20,19 +28,12 @@ Spark SQL, TileDB, Dremio, Presto/Trino, and MonetDB.
   Advisor: Immanuel Trummer
 
 - **M.Sc. in Computer Science** (2021)  
-  National and Kapodistrian University of Athens, Athens, Greece
+  National and Kapodistrian University of Athens, Athens, Greece  
   Advisor: Yannis Ioannidis
 
 - **B.Sc. in Informatics** (2017)  
-  Ionian University, Corfu, Greece
+  Ionian University, Corfu, Greece  
   Advisor: Dimitrios Tsoumakos
-
-## Research Interests
-
-- **Large Language Models & Data Systems:** Systems that harness Large Language Models to enhance and optimize data systems
-(GenAI for Data Systems) and design GenAI-native systems that integrate LLMs into their core functionality 
-(Data Systems for GenAI).
-- **Query Optimization:** Federeted Query Optimization, Learned Query Optimization, Query Engines, Internals
 
 ## Professional Experience
 - **Research Intern** (Summer 2025)  
@@ -52,6 +53,23 @@ Spark SQL, TileDB, Dremio, Presto/Trino, and MonetDB.
 
 - **Data Engineer** (April 2018- Oct. 2018)  
   Aisera, Palo Alto, CA, USA
+
+## Projects
+A small summary of my projects is provided below. For more details, refer to the [publications](#publications) 
+section.
+### SwellDB: GenAI-Native Query Processing via On-the-Fly Table Generation
+SwellDB is a GenAI-native data system that generates tables on-the-fly using LLMs.
+### λ-Tune: LLMs for Database System Tuning
+A system that uses Large Language Models to tune database systems. It leverages LLMs to analyze the input workload 
+(SQL queries) and generate full configuration scripts.
+### DBG-PT: Query Plan Debugging using Large Language Models
+A system that leverages LLMs to resolve query plan regressions. It uses the LLMs in order to compare a regressed query
+plan with a previously efficient one and recommend workarounds.
+
+### A Sample Index for MonetDB
+An index structure for MonetDB that accelerates the sampling operator (`SAMPLE` clause). It is based on random number
+generation and priority queues (min-heaps). The thesis can be found in this 
+[link](https://pergamos.lib.uoa.gr/uoa/dl/object/2942814/file.pdf).
 
 ## News
 

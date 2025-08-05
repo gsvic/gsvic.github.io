@@ -10,6 +10,8 @@ I am also deeply interested in database internals, particularly query optimizati
 Throughout my academic and industry experience, I have built custom components for a variety of data systems, including
 Spark SQL, TileDB, Dremio, Presto/Trino, and MonetDB.
 
+I am originally from [Amarynthos](https://en.wikipedia.org/wiki/Amarynthos), a coastal town in Evia, Greece.
+
 ## Research Interests
 
 - **Large Language Models & Data Systems:** Systems that harness Large Language Models to enhance and optimize data systems
